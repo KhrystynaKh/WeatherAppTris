@@ -1,2 +1,0 @@
-# WeatherAppTris
-Created with CodeSandbox
